@@ -1,8 +1,8 @@
-### Hi there 👋 <br /> <br />
+### Hi there 👋 <br /> <br /> <br />
 
-🔭 I’m currently working on Davxgnubot, a JS Discord bot made just for fun. <br />
-🌱 I’m currently learning JS through my bot, will try out React whenever I start working on my website. <br />
-😄 Pronouns: He/Him <br />
+🔭 I’m currently working on Davxgnubot, a JS Discord bot made just for fun. <br /> <br />
+🌱 I’m currently learning JS through my bot, will try out React whenever I start working on my website. <br /> <br />
+😄 Pronouns: He/Him <br /> <br />
 
 <!--
 **alvaradoavocado/alvaradoavocado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
