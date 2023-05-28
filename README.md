@@ -2,7 +2,6 @@
 
 🔭 I’m currently working on my own portfolio website. For the frameworks, I'm using React and Node. <br /> <br />
 🌱 I’m currently learning JS through a discord bot I made as well as through making my website. <br /> <br />
-😄 Pronouns: He/Him <br /> <br />
 
 <!--
 **alvaradoavocado/alvaradoavocado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
