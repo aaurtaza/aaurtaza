@@ -1,6 +1,5 @@
 ### Hi there 👋 <br /> <br /> <br /> <br />
 
-🔭 I’m currently working on my own portfolio website. For the frameworks, I'm using React and Node. <br /> <br />
 🌱 I’m currently learning JS through a discord bot I made as well as through making my website. <br /> <br />
 
 <!--
