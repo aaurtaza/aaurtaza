@@ -1,6 +1,6 @@
 ### Hi there, I'm Alvaro. 👋 <br /> <br /> <br />
 
-I'm a Junior Computer Science major passionate about learning new things. <br /> <br />
+I'm a junior Computer Science major passionate about learning new things. <br /> <br />
 
 <!--
 **alvaradoavocado/alvaradoavocado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
