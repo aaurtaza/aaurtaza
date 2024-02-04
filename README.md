@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Sass and Tailwind**.
 
-- 👨‍💻 My portfolio website: [alvarourtaza.com](alvarourtaza.com)
-
 - 📫 Contact me here! **alvaroaurtaza@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
