@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alvaro.</h1>
+<h1 align="center">Hey 👋, I'm Alvaro.</h1>
 <h3 align="center">A passionate software engineer from the United States.</h3>
 
 - 🔭 I’m currently working on **my revamped portfolio website.**
