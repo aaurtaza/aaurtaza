@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Alvaro.</h1>
-<h3 align="center">A passionate developer from the United States.</h3>
 
 - 🌱 I’m currently learning **Sass and Tailwind**.
 
