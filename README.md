@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alvaro.</h1>
+<h3 align="center">A passionate software engineer from the United States.</h3>
 
-- 🌱 I’m currently learning **Sass and Tailwind**.
+- 🔭 I’m currently working on **my revamped portfolio website.**
 
-- 📫 Contact me here! **alvaroaurtaza@gmail.com**
+- 🌱 I’m currently learning **Tailwind**.
+
+- ⚡ Fun fact: **My personal best typing speed is 187 WPM.** Check out my typing stats [here](https://typingstats.com/profile/250671823375699968)!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
