@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Tailwind**.
 
-- ⚡ Fun fact: **My personal best typing speed is 187 WPM.** Check out my typing stats [here](https://typingstats.com/profile/250671823375699968)!
+- ⚡ Fun fact: My personal best typing speed is **187 WPM.** Check out my typing stats [here](https://typingstats.com/profile/250671823375699968)!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
