@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my revamped portfolio website** and my web game project **WordSearch**.
 
-- 🌱 I’m currently learning **Tailwind**.
+- 🌱 I’m currently learning **React Native**.
 
 - ⚡ Fun fact: My personal best typing speed is **187 WPM.** Check out my typing stats [here](https://typingstats.com/profile/250671823375699968)!
 
