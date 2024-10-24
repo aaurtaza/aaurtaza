@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my revamped portfolio website** and my web game project **WordSearch**.
 
-- 🌱 I’m currently learning **React Native** and **Tailwind**.
+- 🌱 I’m currently learning **Scala** and **Kotlin**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
