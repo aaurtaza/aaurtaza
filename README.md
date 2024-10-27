@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, I'm Alvaro.</h1>
 <h3 align="center">A passionate CS student and an aspiring software engineer from the United States.</h3>
 
-- 🔭 I’m currently working on **my revamped portfolio website** and my web game project **WordSearch**.
+- I’m currently working on **my revamped portfolio website** and my web game project **WordSearch**.
 
-- 🌱 I’m currently learning **Scala** and **Kotlin**.
+- I’m currently learning **Scala** and **Kotlin**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
