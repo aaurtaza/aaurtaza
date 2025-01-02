@@ -1,5 +1,4 @@
 <h1 align="center">Hey 👋, I'm Alvaro.</h1>
-<h3 align="center">SWE @ Paycom, Prev. @ Amazon</h3>
 
 - I’m currently working on **my revamped portfolio website**.
 
