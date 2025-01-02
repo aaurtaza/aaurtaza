@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Alvaro.</h1>
-<h3 align="center">A passionate CS student and an aspiring software engineer from the United States.</h3>
+<h3 align="center">SWE @ Paycom, Prev. @ Amazon</h3>
 
-- I’m currently working on **my revamped portfolio website** and my web game project **WordSearch**.
+- I’m currently working on **my revamped portfolio website**.
 
 - I’m currently learning **Scala** and **Kotlin**.
 
